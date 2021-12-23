@@ -13,12 +13,12 @@ I'm some what
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--
 ### Connect with me:
 
-[<img align="left" alt="watcharapong-vongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wongprayoon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Watcharapong-Vongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Wongprayoon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-<!--
 <br />
 
 ### Languages and Tools:
