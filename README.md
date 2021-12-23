@@ -6,12 +6,12 @@
 
 I'm some what
 - 🔭 I’m currently working on something boring 😘
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on more open source projects.
+<!-- - 🌱 I’m currently learning ... -->
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to <b>.Net Web API, Flutter, Angular 2+, Business Analytics.</b>
 - 📫 How to reach me: [Watcharapong Wongprayoon](mailto:wongprayoon.w@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 <!--
 ### Connect with me:
