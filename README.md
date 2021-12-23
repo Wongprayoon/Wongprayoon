@@ -34,5 +34,5 @@ I'm some what
 -->
 <br />
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![Watcharapong Wogprayoon's github stats](https://github-readme-stats.vercel.app/api?username=wongprayoon&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
