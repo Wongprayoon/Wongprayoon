@@ -9,11 +9,16 @@ I'm some what
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about anything related to <b>.Net Web API, Flutter, Angular 2+, Business Analytics.</b>
-- 📫 How to reach me: [@watcharapong-vongprayoon][linkedin] or say 👋 on Email at [Watcharapong Wongprayoon](mailto:wongprayoon.w@gmail.com)
+- 📫 How to reach me: [@watcharapong][linkedin] or say 👋 on Email at [Watcharapong Wongprayoon](mailto:wongprayoon.w@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
 
+[<img align="left" alt="watcharapong-wongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="wongprayoon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<!--
 <br />
 
 ### Languages and Tools:
@@ -26,4 +31,9 @@ I'm some what
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
+<br />
+-->
+<br />
+
+### 📊 GitHub Stats:
 ![Watcharapong Wogprayoon's github stats](https://github-readme-stats.vercel.app/api?username=wongprayoon&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
