@@ -5,17 +5,24 @@
 -->
 
 I'm some what
-- 🔭 I’m currently working on something really cool 😘 <!-- - 🌱 I’m currently learning ... -->
+- 🔭 I’m currently working on something really cool 😘 
+- 🌱 I’m currently learning network
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything related to <b>.Net Web API, Flutter, Angular 2+, Xamarin form, WinForm, Business Analytics.</b>
+- 💬 Ask me about anything related to <b>.Net Web API, gRPC, Flutter, Angular 2+, Business Analytics.</b>
 - 📫 How to reach me: [Watcharapong Wongprayoon](mailto:wongprayoon.w@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+## Connect with me:
+
+[<img align="left" alt="linkedin.com/in/watcharapong-vongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/watcharapong-vongprayoon)
+
+
+
 <!--
 ### Connect with me:
 
-[<img align="left" alt="Watcharapong-Vongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin.com/in/watcharapong-vongprayoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Wongprayoon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
